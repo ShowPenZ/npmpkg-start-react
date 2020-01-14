@@ -18,6 +18,7 @@ $ yarn
 name，author，main，description，keywords改为你需要写入的信息
 main 为打包出来的文件路口
 <br>
+
 2. 修改<code>bill.config.js</code>
 ![image.png](https://i.loli.net/2020/01/14/dUuiNszJeOf4PZr.png)
 修改input 打包入口文件路径 <code>src/xxxx.jsx</code> 为你的文件名字，假如你的组件叫Websocket则改为<code>src/Websocket.jsx</code><br>
